@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+(This is currently a work in progress).
 - 🔭 I’m currently working on LLMaoSapiens, a collection of projects to practice my learning of LLMs.
 - 🌱 I’m currently learning Docker, Containers and Kubernetes.
 - 👯 I’m looking to collaborate on Campus Safety Shuttle Tracker App.
