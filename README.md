@@ -8,3 +8,4 @@
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/shamsherghising)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I had a pet duck when I was a child.
+(Last Updated: Oct 5, 2025)
